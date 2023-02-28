@@ -1,5 +1,0 @@
-prompt= input("What is your name?:")
-name= str(prompt)
-prompt2= input("Enter your age:")
-age= str(prompt2)
-print(name, "is", age, "years old.")
