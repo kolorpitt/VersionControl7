@@ -26,7 +26,7 @@ Those monitoring/leaders of the open source coding environemnt are in charge
 of upholding our standards. They will remove or edit contributions in reponse
 to behavior that is harmful to the community. 
 
-Scope:
+Scope of the COC:
 
 The code of conduct applies within the open source code environment and when
 one is representing the community in public spaces such as e-mail, social
