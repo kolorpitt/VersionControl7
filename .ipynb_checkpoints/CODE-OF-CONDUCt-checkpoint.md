@@ -45,7 +45,7 @@ to a violation of the code of conduct.
 	a. Members will be suspended for an amount of time determined by 
 	community leaders.
 	b. Violation of temporary ban will result in a permanent ban.
-4. Permnanet Ban
+4. Permananet Ban
 	a. Follows a pattern of harrasment or multiple violations of standards.
 
 Attribution
